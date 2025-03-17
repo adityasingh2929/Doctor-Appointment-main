@@ -1,2 +1,2 @@
 # Doctor-Appointment-main
- Developed a web-based platform for real-time doctor appointment booking with secure authentication, scheduling, and admin monitoring.
+ Developed an AI-driven platform for real-time doctor appointment booking, featuring smart scheduling, secure authentication, and admin monitoring.
